@@ -1,5 +1,6 @@
 def main()
-    print ( Helloy world )
+    name: str "Pavel"
+    print (f"Hello world and {name}" )
     
     
   if __name__=="__main__":
